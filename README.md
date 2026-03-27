@@ -20,7 +20,7 @@ On [Runner](https://github.com/leogrognet/Runner_Leo_Theo) (C++ / SFML, 2 weeks)
 ## Tech
 ```
 C++20 · Unreal Engine 5 · Vulkan · Jolt Physics
-SFML · OpenGL · SDL · CMake · ImGui
+SFML · SDL · CMake · ImGui
 ECS · Serialization · RHI · Data-Oriented Design
 ```
 
